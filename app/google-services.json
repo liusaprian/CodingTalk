@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "595671466480",
+    "project_id": "codingtalk-535a5",
+    "storage_bucket": "codingtalk-535a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595671466480:android:af71577ea9901ddaa0dd35",
+        "android_client_info": {
+          "package_name": "app.liusaprian.codingtalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595671466480-q5ad7unj7ijpusn0bhfet06d57hvh2ba.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3S8dTiJ2wCfKuZpehXTlwnGBgfnp3khE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595671466480-q5ad7unj7ijpusn0bhfet06d57hvh2ba.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
